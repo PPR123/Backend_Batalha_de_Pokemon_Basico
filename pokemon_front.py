@@ -3,8 +3,8 @@ from pokemon_back2 import Pokemon_Back2
 from time import sleep
 from perder_vida import Perder_Vida
 perder = Perder_Vida
-p1 = Pokemon("Sarah","Chamander")
-p2 = Pokemon_Back2("Paulo","Pikachu")
+p1 = Pokemon("Jogado1","Chamander")
+p2 = Pokemon_Back2("Jogador2","Pikachu")
 cont = 1
 while True:
     if cont == 1:
